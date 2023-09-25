@@ -1,0 +1,14 @@
+.messages {
+}
+
+input[type="text"] {
+  inline-size: 100%;
+  font-size: 1em;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  border: none;
+}
+
+input[type="text"] .hover {
+  box-shadow: 1em 1em black;
+}
